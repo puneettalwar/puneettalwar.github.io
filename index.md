@@ -10,7 +10,7 @@
 * **Areas of Expertise/Research Interests:** Cognitive Neuroscience, Neuroimaging, Human Genomics, Neuroradiogenomics, Clinical data analytics, Alzheimer’s disease, Epidemiology, Systematic Reviews, Meta-analysis
 
 
-## **GAMLSS SHINY APP**
+## GAMLSS SHINY APP
 
 [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
 
