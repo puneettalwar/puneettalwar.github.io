@@ -6,9 +6,7 @@ layout: default
 
 [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## PROFILE SUMMARY
 
