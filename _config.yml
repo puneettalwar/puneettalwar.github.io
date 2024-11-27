@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Puneet Talwar
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Bookmark this to keep an eye on my project updates!
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
