@@ -9,19 +9,23 @@
 * **Personal Attributes:** Self-driven, independent, good scientific communication, affable, assiduous
 * **Areas of Expertise/Research Interests:** Cognitive Neuroscience, Neuroimaging, Human Genomics, Neuroradiogenomics, Clinical data analytics, Alzheimer’s disease, Epidemiology, Systematic Reviews, Meta-analysis
 
-## **GAMLSS Regression Shiny App**
+
+## **GAMLSS SHINY APP**
 
 [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
+
 
 ## CURRENT POSITION
 
 **Assistant Scientist** 
 _[GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.uliege.be/cms/c_4212477/fr/gigacrc)_
 
+
 ## CURRENT PROJECTS
 
  1.  IRONSLEEP: Early stage neuroimaging and behavioral biomarkers of PD progression and underlying mechanisms
  2.  ASLEEP: Ultra-high-field 7T MRI neuroimaging of the links between Alzheimer's disease, sleep and the locus coeruleus
+
 
 ## TECHNICAL EXPERTISE
 
@@ -31,6 +35,7 @@ _[GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.ulie
 - Cognitive Neuroscience
 - Neurodegenerative disorders (Experimental and clinical neuropsychology)
 
+
 ## PAST PROJECTS 
 
 1. Mapping of cognitive pathways in Indian Aging population
@@ -39,6 +44,7 @@ _[GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.ulie
 _Department of Neurology_
 Institute of Human Behaviour & Allied Sciences (IHBAS)
 Faculty of Medical Sciences, University of Delhi, India
+
 
 ## PROFESSIONAL QUALIFICATION
 
