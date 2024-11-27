@@ -4,18 +4,13 @@
 * **International Experience:**
   > Post-Doctoral Fellow, GIGA-CRC Human Imaging, Liege, Belgium  
 * **Postdoctoral Experience:**
-  > DST-CSRI PDF (IHBAS) | Research Associate (IGIB)
+  > DST-CSRI PDF (IHBAS); Research Associate (IGIB)
 * **Education:**
   > PhD (2016, Biological Sciences) | M.Tech. (2008, Biotechnology) | B.Tech. (2006, Biotechnology)
 * **Number of publications:**
-  > 34 (cumulative IF: >200 | citations: 920 | h-index: 15 | i10-index:21) 
+  > 34 | (cumulative IF: >200 | citations: 920 | h-index: 15 | i10-index:21) 
 * **Achievements:**
   > Fellowships / Awards: 12 | Conference abstracts: 30 | Book chapters: 4 | Membership: 10
-* **Personal Attributes:**
-  > Self-driven | independent | good scientific communication | affable | assiduous
-* **Areas of Expertise/Research Interests:**
-  > Cognitive Neuroscience | Neuroimaging | Human Genomics | Neuroradiogenomics | 
-  > Clinical data analytics | Epidemiology | Systematic Reviews | Meta-analysis
 
 
 ## GAMLSS SHINY APP
@@ -42,6 +37,7 @@ _[GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.ulie
 - Quantitative Neuroimaging
 - Cognitive Neuroscience
 - Neurodegenerative disorders (Experimental and clinical neuropsychology)
+- Systematic Reviews & Meta-analysis
 
 
 ## PAST PROJECTS 
