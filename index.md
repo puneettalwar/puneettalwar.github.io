@@ -21,6 +21,11 @@ GAMLSS Regression shiny app: https://puneet-talwar.shinyapps.io/GAMLSSToolbox/
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+## CURRENT POSITION
+
+**Assistant Scientist** 
+_[GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.uliege.be/cms/c_4212477/fr/gigacrc)_
+
 ## Header 2
 
 > This is a blockquote following a header.
