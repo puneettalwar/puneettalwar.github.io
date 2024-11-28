@@ -2,7 +2,7 @@
 ## PROFILE SUMMARY
 
 * **Postdoctoral Experience:**
-  > GIGA-CRC Human Imaging, Belgium | DST-CSRI PDF (IHBAS) | Research Associate (IGIB)
+  > GIGA-CRC Human Imaging, Belgium | DST-CSRI PDF (IHBAS), India | Research Associate (IGIB), India
 * **Number of publications:**
   > 35 | (cumulative IF: >200 | citations: 920 | h-index: 15 | i10-index:21) 
 * **Achievements:**
