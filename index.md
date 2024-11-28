@@ -1,21 +1,14 @@
 
 ## PROFILE SUMMARY
 
-* **International Experience:**
-  > Post-Doctoral Fellow, GIGA-CRC Human Imaging, Liege, Belgium  
 * **Postdoctoral Experience:**
-  > DST-CSRI PDF (IHBAS); Research Associate (IGIB)
-* **Education:**
-  > PhD (2016, Biological Sciences) | M.Tech. (2008, Biotechnology) | B.Tech. (2006, Biotechnology)
+  > GIGA-CRC Human Imaging, Liege, Belgium ; DST-CSRI PDF (IHBAS); Research Associate (IGIB)
 * **Number of publications:**
-  > 34 | (cumulative IF: >200 | citations: 920 | h-index: 15 | i10-index:21) 
+  > 35 | (cumulative IF: >200 | citations: 920 | h-index: 15 | i10-index:21) 
 * **Achievements:**
   > Fellowships / Awards: 12 | Conference abstracts: 30 | Book chapters: 4 | Membership: 10
-
-
-## GAMLSS SHINY APP
-
-[GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
+* **Shiny apps:**
+ > [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
 
 
 ## CURRENT POSITION
