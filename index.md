@@ -20,7 +20,7 @@
 ## CURRENT POSITION
 
 **Assistant Scientist** 
-_[GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.uliege.be/cms/c_4212477/fr/gigacrc)_
+> [GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.uliege.be/cms/c_4212477/fr/gigacrc)
 
 
 ## CURRENT PROJECTS
