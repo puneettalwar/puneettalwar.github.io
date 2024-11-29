@@ -13,7 +13,8 @@
 
 ## TECHNICAL EXPERTISE
 
-> Data analysis & Machine Learning | Human Genomics | Quantitative Neuroimaging | Cognitive Neuroscience | Neurodegenerative disorders | Systematic Reviews & Meta-analysis
+>  Cognitive Neuroscience | Human Genomics | Quantitative Neuroimaging | Neurodegenerative disorders
+>  Data analysis | Machine Learning | Systematic Reviews | Meta-analysis
 
 
 ## CURRENT POSITION
