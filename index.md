@@ -3,13 +3,12 @@
 
 * **Postdoctoral Experience:**
   > GIGA-CRC Human Imaging, Belgium | DST-CSRI PDF (IHBAS), India | Research Associate (IGIB), India
-* **Publications:**
-  > [35] (https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en)
-  > cumulative IF: ~200 | citations: 920 | h-index: 15 | i10-index:21
 * **Achievements:**
   > Fellowships / Awards: 12 | Conference abstracts: 30 | Book chapters: 4 | Membership: 10
+* **Publications:**
+  > 35 (https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en) 
 * **Shiny apps:**
- > [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
+  > [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
 
 
 ## TECHNICAL EXPERTISE
