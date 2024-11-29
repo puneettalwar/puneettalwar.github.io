@@ -6,7 +6,7 @@
 * **Achievements:**
   > Fellowships / Awards: 12 | Conference abstracts: 30 | Book chapters: 4 | Membership: 10
 * **Publications:**
-  > 35 (https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en) 
+  > [35](https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en/) 
 * **Shiny apps:**
   > [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
 
