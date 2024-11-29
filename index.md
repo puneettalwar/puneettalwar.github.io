@@ -3,12 +3,23 @@
 
 * **Postdoctoral Experience:**
   > GIGA-CRC Human Imaging, Belgium | DST-CSRI PDF (IHBAS), India | Research Associate (IGIB), India
-* **Number of publications:**
-  > 35 | (cumulative IF: >200 | citations: 920 | h-index: 15 | i10-index:21) 
+* **Publications:**
+  > [35] (https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en)
+  > cumulative IF: ~200 | citations: 920 | h-index: 15 | i10-index:21
 * **Achievements:**
   > Fellowships / Awards: 12 | Conference abstracts: 30 | Book chapters: 4 | Membership: 10
 * **Shiny apps:**
  > [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
+
+
+## TECHNICAL EXPERTISE
+
+- Data analysis & Machine Learning
+- Human Genomics
+- Quantitative Neuroimaging
+- Cognitive Neuroscience
+- Neurodegenerative disorders 
+- Systematic Reviews & Meta-analysis
 
 
 ## CURRENT POSITION
@@ -21,16 +32,6 @@ _[GIGA-CRC Human Imaging, University of Liege, Belgium](https://www.gigacrc.ulie
 
  1.  IRONSLEEP: Early stage neuroimaging and behavioral biomarkers of PD progression and underlying mechanisms
  2.  ASLEEP: Ultra-high-field 7T MRI neuroimaging of the links between Alzheimer's disease, sleep and the locus coeruleus
-
-
-## TECHNICAL EXPERTISE
-
-- Data analysis & Machine Learning
-- Human Genomics
-- Quantitative Neuroimaging
-- Cognitive Neuroscience
-- Neurodegenerative disorders (Experimental and clinical neuropsychology)
-- Systematic Reviews & Meta-analysis
 
 
 ## PAST PROJECTS 
