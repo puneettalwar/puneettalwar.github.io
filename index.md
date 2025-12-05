@@ -6,10 +6,12 @@
 * **Achievements:**
   > Fellowships / Awards: 12 | Professional Memberships: 10
 * **Publications:**
-  > Publications: [35](https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en/) | Conference abstracts: 30 | Book chapters: 4
+  > Publications: [38](https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en/) | Conference abstracts: 35 | Book chapters: 4
 * **Shiny apps:**
   
   > [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
+  > [FlexibleGLMM Shiny App](https://puneet-talwar.shinyapps.io/FlexibleGLMM/)
+  > [StudyPower Shiny App](https://puneet-talwar.shinyapps.io/PosthocPowerShiny/)
 
 
 ## TECHNICAL EXPERTISE
