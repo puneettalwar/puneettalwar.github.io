@@ -9,9 +9,9 @@
   > Publications: [38](https://scholar.google.com/citations?user=DdvvgpQAAAAJ&hl=en/) | Conference abstracts: 35 | Book chapters: 4
 * **Shiny apps:**
   
-  > [GAMLSS Shiny App](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)
-  > [FlexibleGLMM Shiny App](https://puneet-talwar.shinyapps.io/FlexibleGLMM/)
-  > [StudyPower Shiny App](https://puneet-talwar.shinyapps.io/PosthocPowerShiny/)
+  > [GAMLSSToolbox](https://puneet-talwar.shinyapps.io/GAMLSSToolbox/)|
+  > [FlexibleGLMM](https://puneet-talwar.shinyapps.io/FlexibleGLMM/)|
+  > [StudyPower](https://puneet-talwar.shinyapps.io/PosthocPowerShiny/)
 
 
 ## TECHNICAL EXPERTISE
